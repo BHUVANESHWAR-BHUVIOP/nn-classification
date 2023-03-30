@@ -170,13 +170,13 @@ print(le.inverse_transform(x_single_prediction))
 ```
 ## Dataset Information
 
-![Output](OP1 (1).png)
+![Output](tt.png)
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![Output](OP2 (1).png)
+![Output](tt1.png)
 
 ### Classification Report
 
