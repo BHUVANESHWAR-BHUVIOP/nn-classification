@@ -34,9 +34,7 @@ Train the data and then predict using Tensorflow
          NAME   : BHUVANESHWAR V
          REG NO : 212221240009
 
-```
-c#
-
+```py
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
